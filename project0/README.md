@@ -1,4 +1,4 @@
-#Specification
+Specification:
 
 Your website must meet the following requirements:
 
