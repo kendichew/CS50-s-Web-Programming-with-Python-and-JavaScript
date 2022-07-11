@@ -1,0 +1,6 @@
+{% extends "auctions/layout.html" %}
+
+{% block body %}
+<h3>You sold item: {{ auction.title }} for {{ auction.current_price }} $.</h3>
+Contact user <strong>{{ winner.username }}</strong> to finalize his purchase.
+{% endblock %}
